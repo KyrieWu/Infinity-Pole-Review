@@ -12,7 +12,8 @@
     "delfin": "^1.2.5",
     "sass": "^1.55.0",
     "scss": "^0.2.4",
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
